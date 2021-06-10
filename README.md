@@ -17,7 +17,4 @@ Bayesian-based parameterization of normative data:
 6. The estimated full-CDI scores, s is obtained via affine transformation of the mode m.
 
 Item response theory-based computerised adaptive test:
-- 2PL Model
-a. Discrimination parameters αi 
-b. Difficulty parameters βi 
-c. Ability parameter, θj 
+2PL Model, where the following parameters are used: Discrimination parameters αi; and Difficulty parameters βi to estimate the Ability parameter of child j, θj
