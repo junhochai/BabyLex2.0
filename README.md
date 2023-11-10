@@ -1,4 +1,4 @@
-# shortCDI_sims
+# BabyLex2.0
 The project uses item response theory and Bayesian-based parameterization to select test items tailored to each child's ability in vocabulary assessment. The model consists of two main components: Bayesian-based parameterization of normative data and the utilization of item response theory. Normative data from language-, gender-, and age-matched children is obtained from Wordbank and test items are fitted with normal distributions. Estimated scores are obtained through an affine transformation, and the 2PL Model is used in the item response theory-based computerized adaptive test to estimate the ability parameter of each child.
 
 This is a project from my PhD studies. The model involves:
